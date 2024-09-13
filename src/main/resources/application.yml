@@ -20,3 +20,7 @@ server:
         encoding:
             charset: UTF-8
             force-response: true
+
+jwt:
+    issuer: ajufresh@gmail.com
+    secret_key: study-springboot
